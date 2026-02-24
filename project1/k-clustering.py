@@ -1,3 +1,4 @@
+#对"OverallQual","Neighborhood","GrLivArea"进行聚类分析画图
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
