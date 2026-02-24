@@ -1,3 +1,4 @@
 # small_try_of_kaggle
 The kaggle_credit card这个项目的数据来源于https://www.kaggle.com/competitions/credit-default-prediction-ai-big-data, 是一个完整的数据分析加上简单的KMeans和LGBMClassifier的方法，虽然效果不是十分理想，排名只达到了中位数，但是毕竟是一次完整的尝试。
 在两组代码中，mutual_relationship的意义是探究因变量和自变量的相关性，而kaggle_credit_card是完整的项目流程
+其中在The kaggle_credit card项目中，我先采取对数据可视化分析其特征，然后清洗编码，聚类，然后进行机器学习实践
