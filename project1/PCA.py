@@ -1,4 +1,4 @@
-
+#使用PCA降维进行可视化，找出数据分布特征
 
 
 import matplotlib.pyplot as plt
